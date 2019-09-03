@@ -1,2 +1,3 @@
 # hello-world
-A new repository
+Hello world!
+I am trying to practice GitHub tutorial 
